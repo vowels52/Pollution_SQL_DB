@@ -1,0 +1,1 @@
+This is a basic pollution monitoring database in MySQL. A simplistic PHP front end allows for several types of queries to be performed on the DB. Currently, there is mock data being used but they do represent realistic pollution values.
